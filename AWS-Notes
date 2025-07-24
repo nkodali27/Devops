@@ -1,2 +1,6 @@
-This page will have AWS Notes
-===============================================================
+To install AWS-CLI in Ubuntu, use below command
+  sudo snap install aws-cli --classic
+Once the installation is completed, we will get below message
+aws-cli (v2/stable) 2.27.53 from Amazon Web Services (aws✓) installed
+
+we can verify the installation using "aws version" command
